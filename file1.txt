@@ -1,3 +1,4 @@
 first line in main
 second line 
 m4 main 
+msg1 b2 
